@@ -1,6 +1,6 @@
 # snake
 
-A simple command line utility for transforming input to different casing:
+A simple command line utility for transforming input with spaces to different cases:
 
 ```
 $ snake add date of birth to users table

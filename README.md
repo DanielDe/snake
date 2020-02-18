@@ -27,3 +27,13 @@ rails g migration $(snake add date of birth to users table)
 ```
 
 But I bet it'll be useful elsewhere too.
+
+## Aliasas
+
+I recommend creating some shell aliases for cases you use often:
+
+```
+alias kebab="snake --kebab"
+alias camel="snake --camel"
+alias pascal="snake --pascal"
+```

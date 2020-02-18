@@ -1,4 +1,5 @@
 #! /usr/bin/ruby
+# -*- mode: ruby
 
 def get_option_strings(args)
   last_option_index = args.rindex { |token| token.start_with?('-') }

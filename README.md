@@ -16,6 +16,12 @@ $ snake --camel add date of birth to users table
 addDateOfBirthToUsersTable
 ```
 
+## Installation
+
+Put the `snake` file somewhere in your path, like in `/usr/bin/`.
+
+I'm also working on getting this on Homebrew!
+
 ## Why?
 
 Hitting the space bar is easier than typing an underscore. And this was easy to do.
